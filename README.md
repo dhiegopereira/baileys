@@ -19,8 +19,8 @@ Este projeto é um bot para WhatsApp utilizando a biblioteca Baileys. Ele permit
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/whatsapp-bot.git
-    cd whatsapp-bot
+    git clone git@github.com:dhiegopereira/baileys.git
+    cd baileys
     ```
 
 2. Instale as dependências:
@@ -40,7 +40,7 @@ Este projeto é um bot para WhatsApp utilizando a biblioteca Baileys. Ele permit
 1. Inicie o servidor:
 
     ```bash
-    node index.js
+    npm run dev
     ```
 
 2. Conecte ao WhatsApp escaneando o QR code que aparecerá no terminal.
